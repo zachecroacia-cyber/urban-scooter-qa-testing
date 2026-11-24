@@ -1,5 +1,5 @@
 
-# 🛴 Urban Scooter — QA Testing Portfolio
+#  Urban Scooter — QA Testing Portfolio
 
 **QA Engineer Final Project | TripleTen | November 2026**
 
