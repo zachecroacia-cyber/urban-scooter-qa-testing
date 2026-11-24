@@ -78,3 +78,13 @@ El nombre del repartidor se trunca y se muestra parcialmente con puntos suspensi
 - Pruebas funcionales manuales
 - Pruebas de interfaz de usuario (UI)
 - Validación de visualización de texto
+
+---
+
+## Evidence | Evidencia
+
+Screenshot showing the courier name truncated in the order tracking interface.
+
+Captura que muestra el nombre del repartidor truncado en la interfaz de seguimiento del pedido.
+
+![KAN-1 - Courier name truncation](image-20261102-020207.png)
