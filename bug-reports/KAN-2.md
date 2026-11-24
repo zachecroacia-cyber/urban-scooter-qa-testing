@@ -100,3 +100,15 @@ Después de completar el pedido mediante la API, la aplicación muestra "El serv
 - Pruebas de API
 - Validación de interfaz web
 - Verificación de transiciones de estado del pedido
+
+---
+
+## Evidence | Evidencia
+
+### Screenshot 1 | Captura 1
+
+![KAN-2 - Screenshot 1](image-20261102-024350.png)
+
+### Screenshot 2 | Captura 2
+
+![KAN-2 - Screenshot 2](image-20261102-024221.png)
