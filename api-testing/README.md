@@ -69,8 +69,6 @@ Este comportamiento no coincidió con las respuestas esperadas según la documen
 
 El defecto fue documentado en Jira y revisado como parte del proyecto aprobado por TripleTen.
 
-### Evidencias
-
 ### Evidence | Evidencias
 
 **English**
