@@ -3,40 +3,36 @@
 
 ## English
 
-This section documents the execution and results
-of functional tests performed on Urban Scooter
-during my QA training at TripleTen.
+### Overview
 
-### Evidence
+This section presents functional test execution
+evidence from the Urban Scooter QA project.
 
-- Executed functional checklists
-- Test execution results
-- Passed and failed test scenarios
-- Defects identified during testing
+The checklists document:
 
-### Test Design and Execution Records
+- Test scenarios and verification steps.
+- PASSED and FAILED results.
+- Links to defect reports for failed checks.
+- Traceability between test execution and defects.
 
-The original workbook includes checklists,
-test data validation, and test cases.
+### Test Execution Evidence
 
-[View Test Documentation](../test-design/Urban_Scooter_Test_Design.xlsx)
+[View Test Execution Workbook](../test-design/Urban_Scooter_Test_Design.xlsx)
 
 ## Español
 
-Esta sección documenta la ejecución y los resultados
-de las pruebas funcionales realizadas en Urban Scooter
-durante mi formación en QA en TripleTen.
+### Descripción
 
-### Evidencias
+Esta sección presenta evidencias de ejecución de
+pruebas funcionales del proyecto Urban Scooter.
 
-- Listas de comprobación ejecutadas
-- Resultados de ejecución de pruebas
-- Escenarios aprobados y no aprobados
-- Defectos identificados durante las pruebas
+Las listas de comprobación documentan:
 
-### Documentación de pruebas
+- Escenarios de prueba y verificaciones realizadas.
+- Resultados APROBADO y NO APROBADO.
+- Enlaces a informes de errores.
+- Trazabilidad entre las pruebas y los defectos.
 
-El archivo original contiene listas de comprobación,
-validación de datos y casos de prueba.
+### Evidencia de ejecución
 
-[Ver documentación de pruebas](../test-design/Urban_Scooter_Test_Design.xlsx)
+[Consultar archivo de pruebas](../test-design/Urban_Scooter_Test_Design.xlsx)
