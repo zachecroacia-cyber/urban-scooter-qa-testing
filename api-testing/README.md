@@ -70,4 +70,18 @@ Este comportamiento no coincidió con las respuestas esperadas según la documen
 El defecto fue documentado en Jira y revisado como parte del proyecto aprobado por TripleTen.
 
 ### Evidencias
-Se incorporarán a esta carpeta capturas de las respuestas de Postman y de la verificación en la base de datos.
+
+### Evidence | Evidencias
+
+**English**
+
+Defect KAN-34 was documented during API testing of the endpoint `PUT /api/v1/orders/cancel`.
+
+[View KAN-34 defect report and supporting evidence](https://github.com/zachecroacia-cyber/urban-scooter-qa-testing/blob/main/bug-reports/KAN-34.md)
+
+**Español**
+
+El defecto KAN-34 fue documentado durante las pruebas de API del endpoint `PUT /api/v1/orders/cancel`.
+
+[Consultar reporte KAN-34 y evidencias asociadas](https://github.com/zachecroacia-cyber/urban-scooter-qa-testing/blob/main/bug-reports/KAN-34.md)
+
