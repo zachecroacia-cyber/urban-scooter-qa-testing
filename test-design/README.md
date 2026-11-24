@@ -1,36 +1,32 @@
 
-# Test Design | Diseño de Pruebas
+## Test Design Evidence | Evidencias de diseño de pruebas
 
-## English
+**File | Archivo:** Urban_Scooter_Test_Design.xlsx
 
-### Overview
+### English
 
-Test design documentation created during my QA training at TripleTen.
+This workbook contains four worksheets documenting
+the test design activities for Urban Scooter:
 
-The work demonstrates the application of equivalence partitioning, boundary value analysis, and functional test case design.
+- Task 2: Checklist
+- Task 2: Test Data Validation
+- Task 3: Test Cases
+- Task 4: Checklist
 
-### Testing Techniques
+The documentation demonstrates test planning,
+input validation, equivalence partitioning,
+boundary value analysis, and functional test design.
 
-- Equivalence partitioning: identification of valid and invalid input classes.
-- Boundary value analysis: verification of minimum, maximum, and adjacent values.
-- Positive and negative testing.
-- Functional test cases with preconditions, steps, and expected results.
+### Español
 
-## Español
+Este libro contiene cuatro hojas de trabajo
+correspondientes al diseño de pruebas de Urban Scooter:
 
-### Descripción
+- Tarea 2: Lista de comprobación
+- Tarea 2: Validación de datos
+- Tarea 3: Casos de prueba
+- Tarea 4: Lista de comprobación
 
-Documentación de diseño de pruebas elaborada durante mi formación en QA en TripleTen.
-
-El trabajo demuestra la aplicación de clases de equivalencia, análisis de valores límite y diseño de casos de prueba funcionales.
-
-### Técnicas utilizadas
-
-- Clases de equivalencia: identificación de grupos de datos válidos e inválidos.
-- Análisis de valores límite: comprobación de valores mínimos, máximos y adyacentes.
-- Pruebas positivas y negativas.
-- Casos de prueba funcionales con precondiciones, pasos y resultados esperados.
-
-## Evidence | Evidencias
-
-Las evidencias de diseño de pruebas se incorporarán a esta sección.
+La documentación demuestra planificación de pruebas,
+validación de entradas, clases de equivalencia,
+análisis de valores límite y diseño de pruebas funcionales.
